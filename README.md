@@ -1,0 +1,80 @@
+# rust practise questions
+
+项目来源：[Jang](https://rust-unofficial.github.io/rust-practise-questions/)
+
+## Questions
+
+- [x] 01. Basics
+  - [x] 01. [q_01_01](src/bin/q01_01.rs)
+  - [x] 02. [q_01_02](src/bin/q01_02.rs)
+  - [x] 03. [q_01_03](src/bin/q01_03.rs)
+  - [x] 04. [q_01_04](src/bin/q01_04.rs)
+  - [x] 05. [q_01_05](src/bin/q01_05.rs)
+- [ ] 02. Expressions
+  - [ ] 01. [q02_01](src/bin/q02_01.rs)
+  - [ ] 02. [q02_02](src/bin/q02_02.rs)
+  - [ ] 03. [q02_03](src/bin/q02_03.rs)
+  - [ ] 04. [q02_04](src/bin/q02_04.rs)
+  - [ ] 05. [q02_05](src/bin/q02_05.rs)
+  - [ ] 06. [q02_06](src/bin/q02_06.rs)
+  - [ ] 07. [q02_07](src/bin/q02_07.rs)
+  - [ ] 08. [q02_08](src/bin/q02_08.rs)
+  - [ ] 09. [q02_09](src/bin/q02_09.rs)
+  - [ ] 10. [q02_10](src/bin/q02_10.rs)
+  - [ ] 11. [q02_11](src/bin/q02_11.rs)
+  - [ ] 12. [q02_12](src/bin/q02_12.rs)
+- [ ] 03. Structs
+  - [ ] 01. [q03_01](src/bin/q03_01.rs)
+  - [ ] 02. [q03_02](src/bin/q03_02.rs)
+  - [ ] 03. [q03_03](src/bin/q03_03.rs)
+  - [ ] 04. [q03_04](src/bin/q03_04.rs)
+  - [ ] 05. [q03_05](src/bin/q03_05.rs)
+  - [ ] 06. [q03_06](src/bin/q03_06.rs)
+  - [ ] 07. [q03_07](src/bin/q03_07.rs)
+  - [ ] 08. [q03_08](src/bin/q03_08.rs)
+  - [ ] 09. [q03_09](src/bin/q03_09.rs)
+  - [ ] 10. [q03_10](src/bin/q03_10.rs)
+- [ ] 04. Enum & Patterns
+  - [ ] 01. [q04_01](src/bin/q04_01.rs)
+  - [ ] 02. [q04_02](src/bin/q04_02.rs)
+  - [ ] 03. [q04_03](src/bin/q04_03.rs)
+  - [ ] 04. [q04_04](src/bin/q04_04.rs)
+  - [ ] 05. [q04_05](src/bin/q04_05.rs)
+  - [ ] 06. [q04_06](src/bin/q04_06.rs)
+  - [ ] 07. [q04_07](src/bin/q04_07.rs)
+  - [ ] 08. [q04_08](src/bin/q04_08.rs)
+  - [ ] 09. [q04_09](src/bin/q04_09.rs)
+  - [ ] 10. [q04_10](src/bin/q04_10.rs)
+- [ ] 05. Traits & Generics
+  - [ ] 01. [q05_01](src/bin/q05_01.rs)
+  - [ ] 02. [q05_02](src/bin/q05_02.rs)
+  - [ ] 03. [q05_03](src/bin/q05_03.rs)
+  - [ ] 04. [q05_04](src/bin/q05_04.rs)
+  - [ ] 05. [q05_05](src/bin/q05_05.rs)
+  - [ ] 06. [q05_06](src/bin/q05_06.rs)
+  - [ ] 07. [q05_07](src/bin/q05_07.rs)
+  - [ ] 08. [q05_08](src/bin/q05_08.rs)
+  - [ ] 09. [q05_09](src/bin/q05_09.rs)
+  - [ ] 10. [q05_10](src/bin/q05_10.rs)
+- [ ] 06. Operator Overloading & Utility Traits
+  - [ ] 01. [q06_01](src/bin/q06_01.rs)
+  - [ ] 02. [q06_02](src/bin/q06_02.rs)
+  - [ ] 03. [q06_03](src/bin/q06_03.rs)
+  - [ ] 04. [q06_04](src/bin/q06_04.rs)
+  - [ ] 05. [q06_05](src/bin/q06_05.rs)
+  - [ ] 06. [q06_06](src/bin/q06_06.rs)
+  - [ ] 07. [q06_07](src/bin/q06_07.rs)
+  - [ ] 08. [q06_08](src/bin/q06_08.rs)
+  - [ ] 09. [q06_09](src/bin/q06_09.rs)
+  - [ ] 10. [q06_10](src/bin/q06_10.rs)
+- [ ] 07. Closures & Iterators
+  - [ ] 01. [q07_01](src/bin/q07_01.rs)
+  - [ ] 02. [q07_02](src/bin/q07_02.rs)
+  - [ ] 03. [q07_03](src/bin/q07_03.rs)
+- [ ] ~~08. Collections~~
+- [ ] ~~09. Input & Output~~
+- [ ] 10. Macros
+  - [ ] 01. [q10_01](src/bin/q10_01.rs)
+- [x] 11. Concurrency
+  - [x] 01. [q_11_01](src/bin/q11_01.rs)
+  - [x] 02. [q_11_02](src/bin/q11_02.rs)
