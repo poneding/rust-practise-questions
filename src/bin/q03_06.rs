@@ -20,21 +20,31 @@ fn main() {
 
     lib.add_book(Book::new(
         1,
-        String::from("dp"),
+        String::from("Pone Ding"),
         String::from("Hello"),
         false,
     ));
-    lib.add_book(Book::new(2, String::from("dp"), String::from("Hey"), false));
-    lib.add_book(Book::new(3, String::from("dp"), String::from("Hi"), false));
+    lib.add_book(Book::new(
+        2,
+        String::from("Pone Ding"),
+        String::from("Hey"),
+        false,
+    ));
+    lib.add_book(Book::new(
+        3,
+        String::from("Pone Ding"),
+        String::from("Hi"),
+        false,
+    ));
     lib.add_book(Book::new(
         4,
-        String::from("jay"),
+        String::from("Jay Chou"),
         String::from("Hello"),
         false,
     ));
     lib.add_book(Book::new(
         5,
-        String::from("dp"),
+        String::from("Pone Ding"),
         String::from("你好"),
         false,
     ));
@@ -45,7 +55,7 @@ fn main() {
     assert_eq!(lib.curr_num_books, 3);
     lib.show_num_books();
 
-    lib.find_all_author_books("dp")
+    lib.find_all_author_books("Pone Ding")
         .iter()
         .for_each(|book| book.display_info());
 
