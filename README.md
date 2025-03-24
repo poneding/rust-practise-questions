@@ -23,17 +23,17 @@
   - [x] 10. [q02_10](src/bin/q02_10.rs)
   - [x] 11. [q02_11](src/bin/q02_11.rs)
   - [x] 12. [q02_12](src/bin/q02_12.rs)
-- [ ] 03. Structs
-  - [ ] 01. [q03_01](src/bin/q03_01.rs)
-  - [ ] 02. [q03_02](src/bin/q03_02.rs)
-  - [ ] 03. [q03_03](src/bin/q03_03.rs)
-  - [ ] 04. [q03_04](src/bin/q03_04.rs)
-  - [ ] 05. [q03_05](src/bin/q03_05.rs)
-  - [ ] 06. [q03_06](src/bin/q03_06.rs)
-  - [ ] 07. [q03_07](src/bin/q03_07.rs)
-  - [ ] 08. [q03_08](src/bin/q03_08.rs)
-  - [ ] 09. [q03_09](src/bin/q03_09.rs)
-  - [ ] 10. [q03_10](src/bin/q03_10.rs)
+- [x] 03. Structs
+  - [x] 01. [q03_01](src/bin/q03_01.rs)
+  - [x] 02. [q03_02](src/bin/q03_02.rs)
+  - [x] 03. [q03_03](src/bin/q03_03.rs)
+  - [x] 04. [q03_04](src/bin/q03_04.rs)
+  - [x] 05. [q03_05](src/bin/q03_05.rs)
+  - [x] 06. [q03_06](src/bin/q03_06.rs)
+  - [x] 07. [q03_07](src/bin/q03_07.rs)
+  - [x] 08. [q03_08](src/bin/q03_08.rs)
+  - [x] 09. [q03_09](src/bin/q03_09.rs)
+  - [x] 10. [q03_10](src/bin/q03_10.rs)
 - [ ] 04. Enum & Patterns
   - [ ] 01. [q04_01](src/bin/q04_01.rs)
   - [ ] 02. [q04_02](src/bin/q04_02.rs)
@@ -67,14 +67,14 @@
   - [ ] 08. [q06_08](src/bin/q06_08.rs)
   - [ ] 09. [q06_09](src/bin/q06_09.rs)
   - [ ] 10. [q06_10](src/bin/q06_10.rs)
-- [ ] 07. Closures & Iterators
-  - [ ] 01. [q07_01](src/bin/q07_01.rs)
-  - [ ] 02. [q07_02](src/bin/q07_02.rs)
-  - [ ] 03. [q07_03](src/bin/q07_03.rs)
+- [x] 07. Closures & Iterators
+  - [x] 01. [q07_01](src/bin/q07_01.rs)
+  - [x] 02. [q07_02](src/bin/q07_02.rs)
+  - [x] 03. [q07_03](src/bin/q07_03.rs)
 - [ ] ~~08. Collections~~
 - [ ] ~~09. Input & Output~~
-- [ ] 10. Macros
-  - [ ] 01. [q10_01](src/bin/q10_01.rs)
+- [x] 10. Macros
+  - [x] 01. [q10_01](src/bin/q10_01.rs)
 - [x] 11. Concurrency
   - [x] 01. [q_11_01](src/bin/q11_01.rs)
   - [x] 02. [q_11_02](src/bin/q11_02.rs)
