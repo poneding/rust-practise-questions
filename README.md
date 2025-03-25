@@ -34,7 +34,7 @@
   - [x] 08. [q03_08](src/bin/q03_08.rs)
   - [x] 09. [q03_09](src/bin/q03_09.rs)
   - [x] 10. [q03_10](src/bin/q03_10.rs)
-- [ ] 04. Enum & Patterns
+- [x] 04. Enum & Patterns
   - [x] 01. [q04_01](src/bin/q04_01.rs)
   - [x] 02. [q04_02](src/bin/q04_02.rs)
   - [x] 03. [q04_03](src/bin/q04_03.rs)
@@ -42,7 +42,7 @@
   - [x] 05. [q04_05](src/bin/q04_05.rs)
   - [x] 06. [q04_06](src/bin/q04_06.rs)
   - [x] 07. [q04_07](src/bin/q04_07.rs)
-  - [ ] 08. [q04_08](src/bin/q04_08.rs)
+  - [x] 08. [q04_08](src/bin/q04_08.rs)
   - [x] 09. [q04_09](src/bin/q04_09.rs)
   - [x] 10. [q04_10](src/bin/q04_10.rs)
 - [ ] 05. Traits & Generics
