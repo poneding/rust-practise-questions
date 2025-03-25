@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 chrono = "0.4.40"
 num_cpus = "1.16.0"
+regex = "1.11.1"

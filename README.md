@@ -43,8 +43,8 @@
   - [x] 06. [q04_06](src/bin/q04_06.rs)
   - [x] 07. [q04_07](src/bin/q04_07.rs)
   - [ ] 08. [q04_08](src/bin/q04_08.rs)
-  - [ ] 09. [q04_09](src/bin/q04_09.rs)
-  - [ ] 10. [q04_10](src/bin/q04_10.rs)
+  - [x] 09. [q04_09](src/bin/q04_09.rs)
+  - [x] 10. [q04_10](src/bin/q04_10.rs)
 - [ ] 05. Traits & Generics
   - [ ] 01. [q05_01](src/bin/q05_01.rs)
   - [ ] 02. [q05_02](src/bin/q05_02.rs)
