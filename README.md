@@ -1,8 +1,8 @@
 # rust practise questions
 
-项目来源：[Jang](https://rust-unofficial.github.io/rust-practise-questions/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/poneding/rust-practise-questions)
 
-[» GitHub](https://github.com/poneding/rust-practise-questions)
+项目来源：[Jang](https://rust-unofficial.github.io/rust-practise-questions/)
 
 ## Questions
 
